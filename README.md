@@ -1,8 +1,6 @@
 ## Hi there 👋
 <a href="https://www.notion.so/Back-End-Java-Oracle-DB-94495957a2344487a2b7c8ae993c9c0d?pvs=4">
     <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Instagram&logoColor=white" alt="Notion Link">
-</a> <a href="http://www.instagram.com/minmonade">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
 
 
